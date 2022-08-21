@@ -1,1 +1,1 @@
-# Olympiv-games
+# Olympic-games
